@@ -1,0 +1,12 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2024-03-17 20:25 India Standard Time
+Nmap scan report for www.outlook.com (52.98.87.66)
+Host is up (0.19s latency).
+Other addresses for www.outlook.com (not scanned): 2603:1046:c06:8ce::2 2603:1046:c06:897::2 2603:1046:c06:895::2 2603:1046:700:5c::2 40.99.34.242 40.99.60.226 40.99.34.210
+
+PORT    STATE    SERVICE
+21/tcp  filtered ftp
+25/tcp  open     smtp
+80/tcp  open     http
+443/tcp open     https
+
+Nmap done: 1 IP address (1 host up) scanned in 4.51 seconds

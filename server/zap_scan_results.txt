@@ -1,0 +1,8 @@
+{
+  "progress": {
+    "scanProgress": []
+  },
+  "status": {
+    "status": "0"
+  }
+}
